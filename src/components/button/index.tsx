@@ -7,8 +7,7 @@ import {
 import { PayPalScriptOptions } from "@paypal/paypal-js/types/script-options";
 
 const paypalScriptOptions: PayPalScriptOptions = {
-  "client-id":
-    "AbWOHxm69p7xUTrYIiMa6Umjsq7OuE9K9L1g0LEWjiofakXMhVjEnWb0NV_A7FmAltpjNf_MArxivq2J",
+  "client-id": "seu client id - aquis",
   currency: "BRL",
 };
 function Button() {
